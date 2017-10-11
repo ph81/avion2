@@ -7,7 +7,12 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+
+  /* responsive */
+
 }
+
+
 
 h1 {
   color: #ffffff;
@@ -19,7 +24,15 @@ h1 {
 h3 {
   color: #ffffff;
   font-style: italic;
-  font-size: 22px;
+  font-size: 16px;
+}
+
+h2 {
+  {
+    color: #ffffff;
+    font-style: italic;
+    font-size: 20px;
+  }
 }
 
 /*
